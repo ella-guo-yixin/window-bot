@@ -1,0 +1,3 @@
+[submodule "cozmo/cozmo_ros2_nosdk"]
+	path = cozmo/cozmo_ros2_nosdk
+	url = https://github.com/solosito/cozmo_ros2_nosdk.git
